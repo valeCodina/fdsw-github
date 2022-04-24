@@ -11,6 +11,10 @@ body {
   background-position: left;
 }
 
+h1{
+  text-shadow: -2px -2px 1px #000;
+}
+
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
